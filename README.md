@@ -20,7 +20,7 @@
 
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OPLAKiYA/DogeBot/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -61,7 +61,7 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
+🦄 git clone https://github.com/OPLAKiYA/DogeBot
 🦄 cd DogeBot
 🦄 ls
 🦄 rm -rf session.json
