@@ -45,7 +45,7 @@ heroku/nodejs
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/OPLAKiYA/DogeBot.git
 🦄 cd DogeBot
 🦄 npm start
 ```
