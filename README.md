@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="⁹⁹⁹҂ŁΔƘƖƳΔ࿐" width="170" />
+<img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="ŁΔƘƖƳΔ࿐" width="170" />
 
 ## Doge Bot
 
